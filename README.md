@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KlimczakB
+- 🧫 I’m currently working on my PhD
 - 👀 I’m interested in omic research
 - 🌱 I’m currently learning Python
-- 
 
 
 <!--- 
